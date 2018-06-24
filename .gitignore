@@ -1,0 +1,9 @@
+libraries/
+modules/
+modules.xml
+compiler.xml
+gradle.xml
+kotlinc.xml
+misc.xml
+vcs.xml
+workspace.xml
